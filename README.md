@@ -18,4 +18,4 @@
    - C# (базу не очень знаю, но знаю как писать на нём скрипты для Unity)
 
 
-![Это я](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F77u83erxp89d1.jpeg)
+![Это я](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F77u83erxp89d1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D2453019eff1bb5d0bf14e5e4d5055070286b2b7b)
